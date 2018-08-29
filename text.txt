@@ -1,1 +1,3 @@
 I made this file on Wednesday.
+
+Remember to fetch and commit! A lot!
